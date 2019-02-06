@@ -1,0 +1,5 @@
+https://hub.docker.com/r/icereed/openshift-minio
+
+https://qiita.com/moru3/items/32931813db81d891effb
+
+
